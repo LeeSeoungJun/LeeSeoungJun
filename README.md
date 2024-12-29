@@ -1,4 +1,4 @@
-## 안녕하세요 데이터분석가를 꿈꾸는 이승준입니다 👋
+## 안녕하세요 이승준입니다 👋
 
 <!--
 **LeeSeoungJun/LeeSeoungJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
