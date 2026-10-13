@@ -4,13 +4,4 @@
 
 <h1 align="center">안녕하세요, 이승준입니다 👋</h1>
 
-<p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-tech-stack">Tech Stack</a> ·
-  <a href="#-selected-projects">Projects</a>
-</p>
-
----
-
-
 
